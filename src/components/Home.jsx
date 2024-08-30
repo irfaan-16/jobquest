@@ -2,7 +2,7 @@ import { Search } from "lucide-react";
 
 const Home = () => {
   return (
-    <div className="text-center flex flex-col gap-16 justify-center p-14">
+    <div className="text-center flex flex-col gap-16 justify-center p-14 bg">
       <div>
         <p className="text-2xl text-black/85">
           hiring process 10x better & qualified.🚀🔥
